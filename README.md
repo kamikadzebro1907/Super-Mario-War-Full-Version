@@ -230,3 +230,6 @@ This repository serves as the official landing page for Super Mario War. The sof
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Super Mario War today!**
+
+---
+**Last updated:** 2026-09-10 10:07:47 UTC
